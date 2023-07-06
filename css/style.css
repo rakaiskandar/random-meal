@@ -53,3 +53,23 @@
 .text-center {
     text-align: center;
 }
+
+.columns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.columns h4{
+    font-size: 24px;
+}
+
+.columns p{
+    margin: 0 200px;
+}
+
+.row h5{
+    font-size: 24px;
+    font-weight: bold;
+}
